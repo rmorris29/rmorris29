@@ -3,7 +3,7 @@
 <p align='center'>Software Developer || Frontend || Backend </p>
 
 <p align='center'>
-<a href="https://github.com/rmorris29/rmorris29.github.io" target="_blank">
+<a href="https://rmorris29.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Richard's-Portfolio-red" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/richard-m-763416152/" target="_blank">
